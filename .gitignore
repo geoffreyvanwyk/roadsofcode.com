@@ -1,3 +1,6 @@
 /.frog/build
 /*.html
 /blog
+/feeds
+/tags
+/sitemap.txt
