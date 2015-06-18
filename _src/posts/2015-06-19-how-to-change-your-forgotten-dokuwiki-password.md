@@ -2,7 +2,7 @@
     Date: 2015-06-19T00:06:26
     Tags: dokuwiki, passwords, php 
 
-If you have forgotten your [DokuWiki](https://dokuwiki.org) password, it is possible to set a new password by clicking the _Set New Password_ link on the Login page then following the instructions. DokuWiki will email a new password to you. But what if the email never arrives?
+If you have forgotten your [DokuWiki](https://dokuwiki.org) password, it is possible to set a new password by clicking the _Set New Password_ link on the Login page, then following the instructions. DokuWiki will email a new password to you. But what if the email never arrives?
 
 <!-- more -->
 
@@ -10,11 +10,11 @@ The DokuWiki user names and passwords are stored in the file _path-to-dokuwiki-i
 
     login:passwordhash:Real Name:email:groups,comma,seperated
 
-You cannot simply replace _passwordhash_ with your new password, because the password needs to be hashed first. To hash your password, you can execute the same code that DokiWiki uses, with the interactive mode of PHP.
+You cannot simply replace _passwordhash_ with your new password, because the password needs to be hashed first. To hash your password, you can execute the same code that DokuWiki uses, with the interactive mode of PHP.
 
-Enter directory _path-to-docukiwiki-installation/inc_:
+Enter directory _path-to-dokuwiki-installation/inc_:
 
-    $ cd path-to-docukiwiki-installation/inc
+    $ cd path-to-dokuwiki-installation/inc
 
 Start PHP interactive mode:
 
