@@ -1,6 +1,6 @@
     Title: How To Change Your Forgotten DokuWiki Password
     Date: 2015-06-19T00:06:26
-    Tags: dokuwiki, passwords, php 
+    Tags: dokuwiki, passwords, php, tutorial 
 
 If you have forgotten your [DokuWiki](https://dokuwiki.org) password, it is possible to set a new password by clicking the _Set New Password_ link on the Login page, then following the instructions. DokuWiki will email a new password to you. But what if the email never arrives?
 
