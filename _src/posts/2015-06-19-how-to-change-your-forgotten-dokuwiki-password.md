@@ -6,7 +6,7 @@ If you have forgotten your [DokuWiki](https://dokuwiki.org) password, it is poss
 
 <!-- more -->
 
-The DokuWiki user names and passwords are stored in the file _path-to-dokuwiki-installation/inc/users.auth.php_ in the following format:
+The DokuWiki user names and passwords are stored in the file _path-to-dokuwiki-installation/conf/users.auth.php_ in the following format:
 
     login:passwordhash:Real Name:email:groups,comma,seperated
 
