@@ -28,6 +28,6 @@ Hash your new password:
 
     > echo (new PassHash())->hash_smd5('newpassword') . PHP_EOL;
 
-Copy the output of the last command, and replace the old passwordhash in _path-to-dokuwiki-installation/inc/users.auth.php_ with the new one. Save the file.
+Copy the output of the last command, and replace the old passwordhash in _path-to-dokuwiki-installation/conf/users.auth.php_ with the new one. Save the file.
 
 Now you can login with your new password.
