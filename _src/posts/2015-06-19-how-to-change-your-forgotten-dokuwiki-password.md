@@ -26,8 +26,7 @@ Import the file that contains the hashing code:
 
 Hash your new password:
 
-    > $hasher = new PassHash();
-    > echo $hasher->hash_smd5('newpassword');
+    > echo (new PassHash())->hash_smd5('newpassword') . PHP_EOL;
 
 Copy the output of the last command, and replace the old passwordhash in _path-to-dokuwiki-installation/inc/users.auth.php_ with the new one. Save the file.
 
