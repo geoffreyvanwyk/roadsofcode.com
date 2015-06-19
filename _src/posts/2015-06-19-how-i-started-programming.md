@@ -34,11 +34,10 @@ I wrote a VBA script to help my friend who originally gave me the prime article 
 
 When one of my colleagues noticed my interest in programming, he gave me a set of CDs which contained a complete course in learning Visual Basic 6. This course was very well made and I enjoyed it thoroughly. I built first a unit converter, which I never quite finished; then a stopwatch/countdown-timer/alarm-clock program for Windows which I called [Timepiece](http://sourceforge.net/projects/timepiece/). It is still hosted on SourceForge and has received more thant 3700 downloads. It is also listed on [CNET](http://download.cnet.com/Timepiece/3000-2350_4-12933412.html). On another site, someone actually made a video on how to install and use it!
 
-### Computer Science
+### Startup 
 
 Although I was employed as a chemical engineering technician, I did not have an opportunity to operate the chemical plant or do any of the work I dreamt of when first starting out in chemical engineering. My job consisted mostly of writing documents which I found boring. 
 
-When I was about to register for the final module for a Bachelor's of Technology degree in chemical engineering, I decided to instead register for a correspondence in computer science. A year later, I decided to resign from my job and start my own company.
+When I was about to register for the final module for a Bachelor's of Technology degree in chemical engineering, I decided to instead register for a correspondence in computer science. So far I have completed the first two academic years, except for two modules.
 
-
-
+A year later, I decided to resign from my job and start a startup. The startup is a web application for advertising cars for sale!
